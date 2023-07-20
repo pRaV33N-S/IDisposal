@@ -1,0 +1,8 @@
+D:\Raven\Practice Exercise\C#\IDisposal\bin\Debug\IDisposal.exe.config
+D:\Raven\Practice Exercise\C#\IDisposal\bin\Debug\IDisposal.exe
+D:\Raven\Practice Exercise\C#\IDisposal\bin\Debug\IDisposal.pdb
+D:\Raven\Practice Exercise\C#\IDisposal\obj\Debug\IDisposal.csproj.AssemblyReference.cache
+D:\Raven\Practice Exercise\C#\IDisposal\obj\Debug\IDisposal.csproj.SuggestedBindingRedirects.cache
+D:\Raven\Practice Exercise\C#\IDisposal\obj\Debug\IDisposal.csproj.CoreCompileInputs.cache
+D:\Raven\Practice Exercise\C#\IDisposal\obj\Debug\IDisposal.exe
+D:\Raven\Practice Exercise\C#\IDisposal\obj\Debug\IDisposal.pdb
